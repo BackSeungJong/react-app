@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-// import "./styles.css"; // css 적용방법 1
+import "./styles.css";
 
 ReactDOM.render(
   <React.StrictMode>

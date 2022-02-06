@@ -1,0 +1,24 @@
+#5
+##5.1
+npx create-react-app {프로젝트명}	: react 앱 생성
+npm start				: 프로젝트 실행
+npm i prop-types			: prop-types 다운로드
+npm install react-router-dom		: react router 다운로드
+npm i gh-pages			: gh-pages 다운로드
+
+
+#GIt
+git init
+git remote add origin https://github.com/BackSeungJong/react-app.git
+git branch -M main
+<스테이징 -> commit>
+git push -u origin main
+
+##권한오류시
+git remote set-url origin https://100seungjong@github.com/BackSeungJong/prev-react-app.git
+
+리액트
+타입스크립트
+vuejs
+스프링
+html
